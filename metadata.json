@@ -1,0 +1,6 @@
+{
+  "name": "AtlasCloud Sovereign NeoCloud DZ",
+  "description": "المنظومة السحابية الوطنية السيادية الجزائرية - معمارية حوسبة فائقة الأداء وسيادية بالكامل، امتثال للقانون 18-07، بنية جغرافية رباعية، وتحليلات مكانية PostGIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
